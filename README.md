@@ -59,7 +59,7 @@ The aim of this project is to show case my skills of HTML , CSS and JS by using 
 
 ## 🚀 Live Video <a name="live-video"></a>
 
-- [Live Video Link](#)
+- [Live Video Link](https://www.loom.com/share/eef271a1763e427f9dc72815c57fbebe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
