@@ -90,7 +90,6 @@ a {
 
 header {
   background: url(./img/background/background.png);
-  background-repeat: round;
   background-size: contain;
   text-align: center;
   background-repeat: no-repeat;
@@ -389,7 +388,7 @@ main {
 }
 
 .footer-logo img {
-	width: 75%;
+  width: 75%;
 }
 
 .footer-logo .far {
