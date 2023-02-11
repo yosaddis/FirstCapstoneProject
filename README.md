@@ -14,16 +14,22 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-- [Key Features](#key-features)
-- [🚀 Live Demo](#live-demo)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
-
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Ethio Health Exhibition] <a name="about-project"></a>
@@ -61,9 +67,7 @@ The aim of this project is to show case my skills of HTML , CSS and JS by using 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+> To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
