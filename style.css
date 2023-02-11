@@ -88,8 +88,8 @@ a {
 
 .header-container {
   background-image: url(./img/background/background.png);
-  background-size: contain;
   background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .headline-paragraph-description {

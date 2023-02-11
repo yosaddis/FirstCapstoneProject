@@ -49,7 +49,7 @@ The aim of this project is to show case my skills of HTML , CSS and JS by using 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](#)
+- [Live Demo Link](https://yosaddis.github.io/FirstCapstoneProject/)
 
 ## 🚀 Live Video <a name="live-video"></a>
 
